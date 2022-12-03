@@ -10,3 +10,6 @@ Live demo is available here: [https://luminous-madeleine-ba2eab.netlify.app/](ht
 - Clone this repository
 - Install dependencies by running `npm install`
 - Start the dev server by running `npm start dev`
+
+## Sources
+- [Smooth and simple transitions with the View Transitions API](https://developer.chrome.com/docs/web-platform/view-transitions/) - by Jake Archibald
