@@ -6,7 +6,7 @@ To view this demo, you must be on Chrome Canary 109 or greater. Enable the `view
 
 ## Live Demo
 Live demo is available here: [https://luminous-madeleine-ba2eab.netlify.app/](https://luminous-madeleine-ba2eab.netlify.app/)
-## Running the Demo
+## Running Demo Locally
 - Clone this repository
 - Install dependencies by running `npm install`
 - Start the dev server by running `npm start dev`
